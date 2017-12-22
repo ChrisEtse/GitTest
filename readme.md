@@ -1,4 +1,4 @@
 
 
-hallo programmierer der MPI
+hallo MPI 
 
